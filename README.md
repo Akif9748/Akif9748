@@ -1,5 +1,5 @@
 ### Hi there 👋
-Me are akif (?)
+Me are Akif (?)
 
 
 - 🔭 I’m currently working on Discord bot.
@@ -7,4 +7,3 @@ Me are akif (?)
 - 💬 Ask me about Discord.js
 - 📫 How to reach me: Akif#7304 at DC
 - ⚡ Fun fact: Bilgecan the grandfather
-
