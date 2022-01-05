@@ -13,7 +13,7 @@ Me are Akif (?)
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Akif9748&theme=apprentice&hide_border=true&count_private=true&include_all_commits=true&custom_title=Akif9748's+GitHub+Stats"/>
     </a>
     
-
+  <img width="49%" alt="Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Akif9748&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=262626&stroke=616BBC00&sideLabels=BCBCBC&currStreakLabel=BCBCBC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5F875F&ring=AF5F5F&fire=AF5F5F"/>
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Akif9748&layout=compact&theme=apprentice&hide_border=true" />
     </a>
 </div>
