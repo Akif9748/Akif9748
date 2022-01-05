@@ -7,7 +7,7 @@ Me are Akif (?)
 - 💬 Ask me about Discord.js
 - 📫 How to reach me: Akif#7304 at DC
 - ⚡ Fun fact: Bilgecan the grandfather
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/539506680140922890)](https://discord.com/users/539506680140922890)
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Akif9748&theme=apprentice&hide_border=true&count_private=true&include_all_commits=true&custom_title=Akif9748's+GitHub+Stats"/>
