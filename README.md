@@ -3,12 +3,6 @@ Me are Akif (?)
 
 [Badges used in this README.md file](https://github.com/Ileriayo/markdown-badges)
 
-- 🔭 I’m currently working on Discord bot.
-- 🌱 I’m currently learning NodeJS, Python, and Arduino
-- 💬 Ask me about Discord.js
-- 📫 How to reach me: Akif#7304 at DC
-- ⚡ Fun fact: Bilgecan the grandfather
-- 
 ## Stats
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,31 +15,42 @@ Me are Akif (?)
 </div>
 
 ## Languages I Know
-* ![C++](https://camroku.xyz/badge/cpp)
-* ![Python](https://camroku.xyz/badge/python)
+* ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+* ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+* ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+* ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-
+https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white
 ## Programs/Tools I Used
 * ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 * ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+* ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+* ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+* ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
-* ![Heroku](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+* ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+* ![Power Shell](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=Power%20Shell&logoColor=white)
 
 ## Operating Systems I Used
-* ![Windows](https://camroku.xyz/badge/windows)
+* ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   * Windows XP
   * Windows 7
   * Windows 8
   * Windows 8.1
   * Windows 10
 
-* ![Linux](https://camroku.xyz/badge/linux)
-  * ![Debian](https://camroku.xyz/badge/debian)
-    * ![Ubuntu](https://camroku.xyz/badge/ubuntu)
-    * ![Mint](https://camroku.xyz/badge/mint)
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  * ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+    * ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+    * ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
   * ![Not based on anything](https://camroku.xyz/badge/other)
-    * ![Fedora](https://camroku.xyz/badge/fedora)
+    * ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
     * ![Android](https://camroku.xyz/badge/android)
 
 
@@ -58,16 +63,14 @@ I'm currently using **Windows 10 PRO 21H2 x64**
 
 ## Browsers I Used
 * Chromium
-  * ![Google Chrome](https://camroku.xyz/badge/chrome)
-  * ![Edge](https://camroku.xyz/badge/edge)
-  * ![Brave](https://camroku.xyz/badge/brave)
+  * ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+  * ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+  * ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 * Gecko
-  * ![Firefox](https://camroku.xyz/badge/firefox)
-* Other
-  * ![IE](https://camroku.xyz/badge/ie)
+  * ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 I'm currently using **Brave**.
 
 ## Contact
-* [![Email](https://camroku.xyz/badge/email)](mailto:akif9748@gmail.com)
+* [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akif9748@gmail.com)
 
