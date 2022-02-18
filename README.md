@@ -5,7 +5,7 @@ Me are Akif (?)
 [![Spotify](https://camroku.tech/badge/spotify.svg)](https://open.spotify.com/user/gnpi4usat569rdcxzezm43vi6?si=d73717fcebc14f1f)
 [![Reddit](https://camroku.tech/badge/reddit.svg)](https://www.reddit.com/user/Akif9748)
  
-**Badges used in this README.md file is from Camroku, thanks for this to Camroku.**
+**Badges used in this README.md file are from [Camroku.TECH Badges](https://github.com/Camroku/camr-badge), thanks for these to [Camroku](https://github.com/Camroku).**
 
 ## Stats
 <div>
