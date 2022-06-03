@@ -1,9 +1,9 @@
 ### Hi there 👋
 Me are Akif (?)
 
-[![Discord](https://camroku.tech/badge/discord.svg)](https://discord.com/users/539506680140922890/)
-[![Spotify](https://camroku.tech/badge/spotify.svg)](https://open.spotify.com/user/gnpi4usat569rdcxzezm43vi6?si=d73717fcebc14f1f)
-[![Reddit](https://camroku.tech/badge/reddit.svg)](https://www.reddit.com/user/Akif9748)
+[![Discord](https://akif9748.me/badges/discord.svg)](https://discord.com/users/539506680140922890/)
+[![Spotify](https://akif9748.me/badges/spotify.svg)](https://open.spotify.com/user/gnpi4usat569rdcxzezm43vi6?si=d73717fcebc14f1f)
+[![Reddit](https://akif9748.me/badges/reddit.svg)](https://www.reddit.com/user/Akif9748)
  
 **Badges used in this README.md file are from [Camroku.TECH Badges](https://github.com/Camroku/camr-badge), thanks for these to [Camroku](https://github.com/Camroku).**
 
@@ -19,47 +19,47 @@ Me are Akif (?)
 </div>
 
 ## Languages I Know
-* ![Node.js](https://camroku.tech/badge/node.svg)
-* ![JSON](https://camroku.tech/badge/json.svg)
-* ![Python](https://camroku.tech/badge/python.svg)
-* ![Arduino](https://camroku.tech/badge/arduino.svg)
-* ![C++](https://camroku.tech/badge/cpp.svg) 
-* ![Ruby](https://camroku.tech/badge/ruby.svg)
-* ![C#](https://camroku.tech/badge/csharp.svg)
-* ![HTML5](https://camroku.tech/badge/html5.svg)
-* ![CSS3](https://camroku.tech/badge/css3.svg)
-* ![Markdown](https://camroku.tech/badge/md.svg)
-* ![Scratch](https://camroku.tech/badge/scratch.svg)
+* ![Node.js](https://akif9748.me/badges/node.svg)
+* ![JSON](https://akif9748.me/badges/json.svg)
+* ![Python](https://akif9748.me/badges/python.svg)
+* ![Arduino](https://akif9748.me/badges/arduino.svg)
+* ![C++](https://akif9748.me/badges/cpp.svg) 
+* ![Ruby](https://akif9748.me/badges/ruby.svg)
+* ![C#](https://akif9748.me/badges/csharp.svg)
+* ![HTML5](https://akif9748.me/badges/html5.svg)
+* ![CSS3](https://akif9748.me/badges/css3.svg)
+* ![Markdown](https://akif9748.me/badges/md.svg)
+* ![Scratch](https://akif9748.me/badges/scratch.svg)
 
 ## Editors I Used
-* ![Visual Studio Code](https://camroku.tech/badge/vsc.svg)
-* ![Visual Studio](https://camroku.tech/badge/vs.svg)
-* ![Arduino IDE](https://camroku.tech/badge/ino-ide.svg)
-* ![Atom](https://camroku.tech/badge/atom.svg)
-* ![CLion](https://camroku.tech/badge/clion.svg)
-* ![PyCharm](https://camroku.tech/badge/pycharm.svg)
+* ![Visual Studio Code](https://akif9748.me/badges/vsc.svg)
+* ![Visual Studio](https://akif9748.me/badges/vs.svg)
+* ![Arduino IDE](https://akif9748.me/badges/ino-ide.svg)
+* ![Atom](https://akif9748.me/badges/atom.svg)
+* ![CLion](https://akif9748.me/badges/clion.svg)
+* ![PyCharm](https://akif9748.me/badges/pycharm.svg)
 
 ## Clouds I Used
-* ![Glitch](https://camroku.tech/badge/glitch.svg)
-* ![Heroku](https://camroku.tech/badge/heroku.svg)
-* ![Github Actions](https://camroku.tech/badge/gh-actions.svg)
+* ![Glitch](https://akif9748.me/badges/glitch.svg)
+* ![Heroku](https://akif9748.me/badges/heroku.svg)
+* ![Github Actions](https://akif9748.me/badges/gh-actions.svg)
 
 
 ## Operating Systems I Used
-* ![Windows](https://camroku.tech/badge/windows.svg)
+* ![Windows](https://akif9748.me/badges/windows.svg)
   * Windows XP
   * Windows 7
   * Windows 8
   * Windows 8.1
   * Windows 10
 
-* ![Linux](https://camroku.tech/badge/linux.svg)
-  * ![Debian](https://camroku.tech/badge/debian.svg)
-    * ![Ubuntu](https://camroku.tech/badge/ubuntu.svg)
-    * ![Mint](https://camroku.tech/badge/mint.svg)
-  * ![Not based on anything](https://camroku.tech/badge/other.svg)
-    * ![Fedora](https://camroku.tech/badge/fedora.svg)
-    * ![Android](https://camroku.tech/badge/android.svg)
+* ![Linux](https://akif9748.me/badges/linux.svg)
+  * ![Debian](https://akif9748.me/badges/debian.svg)
+    * ![Ubuntu](https://akif9748.me/badges/ubuntu.svg)
+    * ![Mint](https://akif9748.me/badges/mint.svg)
+  * ![Not based on anything](https://akif9748.me/badges/other.svg)
+    * ![Fedora](https://akif9748.me/badges/fedora.svg)
+    * ![Android](https://akif9748.me/badges/android.svg)
 
 
 I'm currently using **Windows 10 Pro 21H2 x64**
