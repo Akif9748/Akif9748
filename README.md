@@ -1,5 +1,6 @@
 ### Hi there 👋
 Me are Akif (?)
+![](https://komarev.com/ghpvc/?username=Akif9748)
 
 [![Discord](https://akif9748.me/badges/discord.svg)](https://discord.com/users/539506680140922890/)
 [![Spotify](https://akif9748.me/badges/spotify.svg)](https://open.spotify.com/user/gnpi4usat569rdcxzezm43vi6?si=d73717fcebc14f1f)
