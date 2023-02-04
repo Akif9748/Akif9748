@@ -3,9 +3,9 @@ Me are Akif (?)
 
 ![](https://komarev.com/ghpvc/?username=Akif9748)
 
-[![Discord](https://akif9748.me/badges/discord.svg)](https://discord.com/users/539506680140922890/)
-[![Spotify](https://akif9748.me/badges/spotify.svg)](https://open.spotify.com/user/gnpi4usat569rdcxzezm43vi6?si=d73717fcebc14f1f)
-[![Reddit](https://akif9748.me/badges/reddit.svg)](https://www.reddit.com/user/Akif9748)
+[![Discord](https://akif9748.github.io/badges/discord.svg)](https://discord.com/users/539506680140922890/)
+[![Spotify](https://akif9748.github.io/badges/spotify.svg)](https://open.spotify.com/user/gnpi4usat569rdcxzezm43vi6?si=d73717fcebc14f1f)
+[![Reddit](https://akif9748.github.io/badges/reddit.svg)](https://www.reddit.com/user/Akif9748)
  
 **Badges used in this README.md file are from my [badges](https://github.com/Akif9748/badges) repo, thanks for these to [Camroku](https://github.com/Camroku).**
 
@@ -21,47 +21,47 @@ Me are Akif (?)
 </div>
 
 ## Languages I Know
-* ![Node.js](https://akif9748.me/badges/node.svg)
-* ![JSON](https://akif9748.me/badges/json.svg)
-* ![Python](https://akif9748.me/badges/python.svg)
-* ![Arduino](https://akif9748.me/badges/arduino.svg)
-* ![C++](https://akif9748.me/badges/cpp.svg) 
-* ![Ruby](https://akif9748.me/badges/ruby.svg)
-* ![C#](https://akif9748.me/badges/csharp.svg)
-* ![HTML5](https://akif9748.me/badges/html5.svg)
-* ![CSS3](https://akif9748.me/badges/css3.svg)
-* ![Markdown](https://akif9748.me/badges/md.svg)
-* ![Scratch](https://akif9748.me/badges/scratch.svg)
+* ![Node.js](https://akif9748.github.io/badges/node.svg)
+* ![JSON](https://akif9748.github.io/badges/json.svg)
+* ![Python](https://akif9748.github.io/badges/python.svg)
+* ![Arduino](https://akif9748.github.io/badges/arduino.svg)
+* ![C++](https://akif9748.github.io/badges/cpp.svg) 
+* ![Ruby](https://akif9748.github.io/badges/ruby.svg)
+* ![C#](https://akif9748.github.io/badges/csharp.svg)
+* ![HTML5](https://akif9748.github.io/badges/html5.svg)
+* ![CSS3](https://akif9748.github.io/badges/css3.svg)
+* ![Markdown](https://akif9748.github.io/badges/md.svg)
+* ![Scratch](https://akif9748.github.io/badges/scratch.svg)
 
 ## Editors I Used
-* ![Visual Studio Code](https://akif9748.me/badges/vsc.svg)
-* ![Visual Studio](https://akif9748.me/badges/vs.svg)
-* ![Arduino IDE](https://akif9748.me/badges/ino-ide.svg)
-* ![Atom](https://akif9748.me/badges/atom.svg)
-* ![CLion](https://akif9748.me/badges/clion.svg)
-* ![PyCharm](https://akif9748.me/badges/pycharm.svg)
+* ![Visual Studio Code](https://akif9748.github.io/badges/vsc.svg)
+* ![Visual Studio](https://akif9748.github.io/badges/vs.svg)
+* ![Arduino IDE](https://akif9748.github.io/badges/ino-ide.svg)
+* ![Atom](https://akif9748.github.io/badges/atom.svg)
+* ![CLion](https://akif9748.github.io/badges/clion.svg)
+* ![PyCharm](https://akif9748.github.io/badges/pycharm.svg)
 
 ## Clouds I Used
-* ![Glitch](https://akif9748.me/badges/glitch.svg)
-* ![Heroku](https://akif9748.me/badges/heroku.svg)
-* ![Github Actions](https://akif9748.me/badges/gh-actions.svg)
+* ![Glitch](https://akif9748.github.io/badges/glitch.svg)
+* ![Heroku](https://akif9748.github.io/badges/heroku.svg)
+* ![Github Actions](https://akif9748.github.io/badges/gh-actions.svg)
 
 
 ## Operating Systems I Used
-* ![Windows](https://akif9748.me/badges/windows.svg)
+* ![Windows](https://akif9748.github.io/badges/windows.svg)
   * Windows XP
   * Windows 7
   * Windows 8
   * Windows 8.1
   * Windows 10
 
-* ![Linux](https://akif9748.me/badges/linux.svg)
-  * ![Debian](https://akif9748.me/badges/debian.svg)
-    * ![Ubuntu](https://akif9748.me/badges/ubuntu.svg)
-    * ![Mint](https://akif9748.me/badges/mint.svg)
-  * ![Not based on anything](https://akif9748.me/badges/other.svg)
-    * ![Fedora](https://akif9748.me/badges/fedora.svg)
-    * ![Android](https://akif9748.me/badges/android.svg)
+* ![Linux](https://akif9748.github.io/badges/linux.svg)
+  * ![Debian](https://akif9748.github.io/badges/debian.svg)
+    * ![Ubuntu](https://akif9748.github.io/badges/ubuntu.svg)
+    * ![Mint](https://akif9748.github.io/badges/mint.svg)
+  * ![Not based on anything](https://akif9748.github.io/badges/other.svg)
+    * ![Fedora](https://akif9748.github.io/badges/fedora.svg)
+    * ![Android](https://akif9748.github.io/badges/android.svg)
 
 
 I'm currently using **Windows 10 Pro 21H2 x64**
