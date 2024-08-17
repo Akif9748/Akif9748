@@ -19,4 +19,4 @@ Me are Akif the Node.js enjoyer, and owner of the [Alair](https://discord.gg/9cB
 ![Ruby](https://akif9748.github.io/badges/ruby.svg)
 
 ### Addinational
-Windows 10 Pro x64 enjoyer. Badges used in this README.md file are from my [badges](https://github.com/Akif9748/badges) repo, thanks for these to [Camroku](https://github.com/Camroku).
+Windows 10 Pro x64 enjoyer.
